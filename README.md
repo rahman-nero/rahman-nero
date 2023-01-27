@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahman-nero&label=Profile%20views&color=0e75b6&style=flat" alt="rahman-nero" /> </p>
 
-- 🔭 I’m currently working on [project which helping with learning English](github.com/rahman-nero/english-helper)
+- 🔭 I’m currently working on [project which helping with learning English](https://github.com/rahman-nero/english-helper)
 
 - 🌱 I’m currently learning **CI/CD, ElasticSearch, Symfony, PostgreSQL etc.**
 
-- 📝 I occasionally write articles on [habr.com/users/obitel_016/posts](habr.com/users/obitel_016/posts)
+- 📝 I occasionally write articles on [habr.com/users/obitel_016/posts](https://habr.com/users/obitel_016/posts)
 
 - 📫 How to reach me **dikaevr053@gmail.com**
 
