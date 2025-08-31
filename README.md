@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [project which helping with learning English](https://github.com/rahman-nero/english-helper)
 
-- 🌱 I’m currently learning **CI/CD, ElasticSearch, Symfony, PostgreSQL etc.**
+- 🌱 I’m currently learning **Python, PostgreSQL etc.**
 
 - 📝 I occasionally write articles on [habr.com/users/obitel_016/posts](https://habr.com/users/obitel_016/posts)
 
-- 📫 How to reach me **dikaevr053@gmail.com**
+- 📫 How to reach me **rahman.corporative@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
