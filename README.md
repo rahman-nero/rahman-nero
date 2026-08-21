@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I occasionally write articles on [habr.com/users/obitel_016/posts](https://habr.com/users/obitel_016/posts)
+- 📝 I occasionally write articles on [Habr](https://habr.com/users/obitel_016/posts)
 
 - 📫 How to reach me **rahman.corporative@gmail.com**
 
