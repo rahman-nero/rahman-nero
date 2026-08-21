@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahman</h1>
-<h3 align="center">I am Back-end engineer nowadays working on company "ООО-ВАШ-РАЗРАБОТЧИК".</h3>
+<h3 align="center">I am Full-stack engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahman-nero&label=Profile%20views&color=0e75b6&style=flat" alt="rahman-nero" /> </p>
 
 - 🔭 I’m currently working on [project which helping with learning English](https://github.com/rahman-nero/english-helper)
 
-- 🌱 I’m currently learning **Python, PostgreSQL etc.**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I occasionally write articles on [habr.com/users/obitel_016/posts](https://habr.com/users/obitel_016/posts)
 
